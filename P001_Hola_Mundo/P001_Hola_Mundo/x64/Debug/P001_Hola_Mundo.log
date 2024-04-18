@@ -1,0 +1,4 @@
+﻿  P001_Hola_Mundo.cpp
+C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P001_Hola_Mundo\P001_Hola_Mundo\P001_Hola_Mundo.cpp(27,10): warning C4804: '/': unsafe use of type 'bool' in operation
+C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P001_Hola_Mundo\P001_Hola_Mundo\P001_Hola_Mundo.cpp(48,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  P001_Hola_Mundo.vcxproj -> C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P001_Hola_Mundo\x64\Debug\P001_Hola_Mundo.exe
