@@ -1,0 +1,4 @@
+﻿  P004_Etrada_Y_Salida_De_Datos.cpp
+C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P004_Etrada_Y_Salida_De_Datos\P004_Etrada_Y_Salida_De_Datos\P004_Etrada_Y_Salida_De_Datos.cpp(10,25): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P004_Etrada_Y_Salida_De_Datos\P004_Etrada_Y_Salida_De_Datos\P004_Etrada_Y_Salida_De_Datos.cpp(10,45): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  P004_Etrada_Y_Salida_De_Datos.vcxproj -> C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P004_Etrada_Y_Salida_De_Datos\x64\Debug\P004_Etrada_Y_Salida_De_Datos.exe

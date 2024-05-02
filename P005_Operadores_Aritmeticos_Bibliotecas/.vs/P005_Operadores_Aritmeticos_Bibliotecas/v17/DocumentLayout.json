@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P005_Operadores_Aritmeticos_Bibliotecas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37ED5107-5820-437C-AFBC-C51474DD551C}|P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas.vcxproj|C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37ED5107-5820-437C-AFBC-C51474DD551C}|P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas.vcxproj|solutionrelative:P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P005_Operadores_Aritmeticos_Bibliotecas.cpp",
+              "DocumentMoniker": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas.cpp",
+              "RelativeDocumentMoniker": "P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas.cpp",
+              "ToolTip": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas.cpp",
+              "RelativeToolTip": "P005_Operadores_Aritmeticos_Bibliotecas\\P005_Operadores_Aritmeticos_Bibliotecas.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T14:42:53.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
