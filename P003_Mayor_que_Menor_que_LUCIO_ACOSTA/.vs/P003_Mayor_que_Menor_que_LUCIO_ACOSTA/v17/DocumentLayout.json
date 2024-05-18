@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "P003_Mayor_que_Menor_que_LUCIO_ACOSTA\\P003_Mayor_que_Menor_que_LUCIO_ACOSTA.cpp",
               "ToolTip": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P003_Mayor_que_Menor_que_LUCIO_ACOSTA\\P003_Mayor_que_Menor_que_LUCIO_ACOSTA\\P003_Mayor_que_Menor_que_LUCIO_ACOSTA.cpp",
               "RelativeToolTip": "P003_Mayor_que_Menor_que_LUCIO_ACOSTA\\P003_Mayor_que_Menor_que_LUCIO_ACOSTA.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-18T13:30:16.533Z",
               "EditorCaption": ""

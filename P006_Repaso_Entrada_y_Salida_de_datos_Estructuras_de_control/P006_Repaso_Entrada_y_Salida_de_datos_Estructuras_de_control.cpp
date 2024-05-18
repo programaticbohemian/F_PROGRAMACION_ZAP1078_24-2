@@ -44,16 +44,17 @@ int main()
 			std::cout << "\n******************************************************************************************";
 			std::system("cls"); 
 		}
+		if (f == false)
+		{
+			std::cout << "\n\n***************************Usuario invalido****************************************************";
+			std::cout << "\n\t\t ESTA NO ES TU CUENTA :\t\t";
+			std::cout << "\n\t\t Se ENVIO una notificacion al correo:";
+			std::cout << "\n************************************************************************************************";
+		}
 		break; 
 	}
 	
-	if (f==false)
-	{
-		std::cout << "\n\n***************************Usuario invalido****************************************************";
-		std::cout << "\n\t\t ESTA NO ES TU CUENTA :\t\t";
-		std::cout << "\n\t\t Se ENVIO una notificacion al correo:";
-		std::cout << "\n************************************************************************************************";
-	}
+	
 	
 
 	if (f==true)
@@ -69,7 +70,7 @@ int main()
 		std::cout << "\n\t\t ingresa tu zap:\t\t";
 		std::cin >> zap;
 		std::cout << "\n\t\t cual es tu carrera:\t\t";
-		std::cin >> carrera
+		std::cin >> carrera;
 		std::cout << "\n\t\t ingresa tu steam id:\t\t";
 		std::cin >> steam;
 		std::system("cls");
