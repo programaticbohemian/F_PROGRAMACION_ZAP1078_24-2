@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D83B96EE-2E4F-44B3-A328-FF688C08E02B}|P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA.vcxproj|C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA\\P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D83B96EE-2E4F-44B3-A328-FF688C08E02B}|P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA.vcxproj|solutionrelative:P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA.cpp",
+              "DocumentMoniker": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA\\P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA.cpp",
+              "RelativeDocumentMoniker": "P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA.cpp",
+              "ToolTip": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA\\P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA.cpp",
+              "RelativeToolTip": "P015 Batalla Pok\u00E9mon_LUCIO_ACOSTA.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T12:55:06.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

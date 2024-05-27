@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P013 Bucles (WHILE-DO WHILE-FOR)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78F22F69-F731-4574-820B-D5E84FDA3EBC}|P013 Bucles (WHILE-DO WHILE-FOR).vcxproj|C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P013 Bucles (WHILE-DO WHILE-FOR)\\P013 Bucles (WHILE-DO WHILE-FOR).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78F22F69-F731-4574-820B-D5E84FDA3EBC}|P013 Bucles (WHILE-DO WHILE-FOR).vcxproj|solutionrelative:P013 Bucles (WHILE-DO WHILE-FOR).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P013 Bucles (WHILE-DO WHILE-FOR).cpp",
+              "DocumentMoniker": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P013 Bucles (WHILE-DO WHILE-FOR)\\P013 Bucles (WHILE-DO WHILE-FOR).cpp",
+              "RelativeDocumentMoniker": "P013 Bucles (WHILE-DO WHILE-FOR).cpp",
+              "ToolTip": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P013 Bucles (WHILE-DO WHILE-FOR)\\P013 Bucles (WHILE-DO WHILE-FOR).cpp",
+              "RelativeToolTip": "P013 Bucles (WHILE-DO WHILE-FOR).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T14:31:44.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

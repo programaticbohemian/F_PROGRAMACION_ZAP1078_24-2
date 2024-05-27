@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P010 Condicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE57C2B0-4765-4B06-A795-408254FA14DD}|P010 Condicionales.vcxproj|C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P010 Condicionales\\P010 Condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE57C2B0-4765-4B06-A795-408254FA14DD}|P010 Condicionales.vcxproj|solutionrelative:P010 Condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P010 Condicionales.cpp",
+              "DocumentMoniker": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P010 Condicionales\\P010 Condicionales.cpp",
+              "RelativeDocumentMoniker": "P010 Condicionales.cpp",
+              "ToolTip": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P010 Condicionales\\P010 Condicionales.cpp",
+              "RelativeToolTip": "P010 Condicionales.cpp",
+              "ViewState": "AQIAABsAAAAAlhVUmYsewCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T13:50:09.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  P015 Batalla Pokémon_LUCIO_ACOSTA.cpp
+C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P015 Batalla Pokémon_LUCIO_ACOSTA\P015 Batalla Pokémon_LUCIO_ACOSTA.cpp(55,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P015 Batalla Pokémon_LUCIO_ACOSTA\P015 Batalla Pokémon_LUCIO_ACOSTA.cpp(104,17): warning C4101: 'volver': unreferenced local variable
+  P015 Batalla Pokémon_LUCIO_ACOSTA.vcxproj -> C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P015 Batalla Pokémon_LUCIO_ACOSTA\x64\Debug\P015 Batalla Pokémon_LUCIO_ACOSTA.exe
