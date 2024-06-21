@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\probabilidades_matematicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401C0170-1573-4D79-83DB-E00E7945DF9B}|probabilidades_matematicas.vcxproj|C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\probabilidades_matematicas\\probabilidades_matematicas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{401C0170-1573-4D79-83DB-E00E7945DF9B}|probabilidades_matematicas.vcxproj|solutionrelative:probabilidades_matematicas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "probabilidades_matematicas.cpp",
+              "DocumentMoniker": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\probabilidades_matematicas\\probabilidades_matematicas.cpp",
+              "RelativeDocumentMoniker": "probabilidades_matematicas.cpp",
+              "ToolTip": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\probabilidades_matematicas\\probabilidades_matematicas.cpp",
+              "RelativeToolTip": "probabilidades_matematicas.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T18:33:24.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -23,7 +23,7 @@ bool esNumeros(const std::string& str) {
 }
 
 int main() {
-    std::string username, password;
+    std::string username, password ;
 
     std::cout << "Ingresa tu nombre de usuario: ";
     std::cin >> username;

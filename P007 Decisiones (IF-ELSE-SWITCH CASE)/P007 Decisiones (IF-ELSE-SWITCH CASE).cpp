@@ -6,7 +6,7 @@
 int main()
 {
    
-    int A,b,c,z,ez=0,o=0,xd=0;
+    int A,b,c,z,ez,o=0,xd=0;
     menu:
   
     std::cout << "******************************BATTLE-ROAYALE***************************************\n";
@@ -46,11 +46,11 @@ int main()
                 std::cout << "******************************ELIMINATORIA*************************************\n";
                 std::cout << "ingrese el numerod e  jugadores";
                 std::cin >> b;
-                while (b==1)
-                {
-                    b / 2;
+                
+                
+                   b= b - 1;
                     std::cout << "1er ronda fueron " << b << " peleas";
-                }
+                
 
                 std::cout << "jugar de nuevo?\n 1 si \n 2 no \n";
                 std::cin >> z;
@@ -71,6 +71,10 @@ int main()
                 std::cout << "******************************GRUPOS*******************************************\n";
                 std::cout << "ingrese el numerod e  jugadores";
                 std::cin >> b;
+                ez = (b / 2);
+                b= (((b/4)*6)+ez-1);
+                
+                std::cout << "1er ronda fueron " << b << " peleas";
                 break;
         }
         default:

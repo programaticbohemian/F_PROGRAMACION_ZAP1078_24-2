@@ -1,2 +1,4 @@
 ﻿  P010 Condicionales.cpp
-  P010 Condicionales.vcxproj -> C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P010 Condicionales\x64\Debug\P010 Condicionales.exe
+C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P010 Condicionales\P010 Condicionales.cpp(26,26): error C2059: syntax error: ','
+C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P010 Condicionales\P010 Condicionales.cpp(32,17): error C2065: 'password': undeclared identifier
+C:\Users\Dayana\Documents\GitHub\F_PROGRAMACION_ZAP1078_24-2\P010 Condicionales\P010 Condicionales.cpp(34,41): error C2065: 'password': undeclared identifier

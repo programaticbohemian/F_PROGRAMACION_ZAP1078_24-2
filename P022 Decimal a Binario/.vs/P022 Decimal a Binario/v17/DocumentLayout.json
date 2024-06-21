@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P022 Decimal a Binario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41EA0B1-524C-457C-9DB0-FE2796C4A9B9}|P022 Decimal a Binario.vcxproj|C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P022 Decimal a Binario\\P022 Decimal a Binario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41EA0B1-524C-457C-9DB0-FE2796C4A9B9}|P022 Decimal a Binario.vcxproj|solutionrelative:P022 Decimal a Binario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P022 Decimal a Binario.cpp",
+              "DocumentMoniker": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P022 Decimal a Binario\\P022 Decimal a Binario.cpp",
+              "RelativeDocumentMoniker": "P022 Decimal a Binario.cpp",
+              "ToolTip": "C:\\Users\\Dayana\\Documents\\GitHub\\F_PROGRAMACION_ZAP1078_24-2\\P022 Decimal a Binario\\P022 Decimal a Binario.cpp",
+              "RelativeToolTip": "P022 Decimal a Binario.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-20T21:27:30.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
